@@ -1,0 +1,12 @@
+lcd.c:11:6:GLCD_InitalizePorts	8	static
+lcd.c:34:6:GLCD_EnableController	16	static
+lcd.c:44:6:GLCD_DisableController	16	static
+lcd.c:52:6:GLCD_WriteCommand	16	static
+lcd.c:64:6:GLCD_WriteData	16	static
+lcd.c:80:6:GLCD_Initalize	16	static
+lcd.c:91:6:GLCD_GoTo	32	static
+lcd.c:108:6:GLCD_ClearScreen	16	static
+lcd.c:120:6:GLCD_WriteChar	32	static
+lcd.c:132:6:GLCD_WriteString	16	static
+lcd.c:137:9:GLCD_ReadByteFromROMMemory	16	static
+lcd.c:142:6:delay_us	24	static
